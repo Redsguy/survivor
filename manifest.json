@@ -1,0 +1,22 @@
+﻿{
+  "name": "Survivor Mobile Game",
+  "short_name": "Survivor",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f4f8",
+  "theme_color": "#cc0000",
+  "orientation": "landscape"
+  "icons": [
+    {
+      "src": "/survivor/survivorLogo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/survivor/survivorLogo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+
+}
