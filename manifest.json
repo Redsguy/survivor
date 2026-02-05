@@ -5,7 +5,7 @@
   "display": "standalone",
   "background_color": "#f4f4f8",
   "theme_color": "#cc0000",
-  "orientation": "portrait"
+  "orientation": "landscape"
   "icons": [
     {
       "src": "/survivor/survivorLogo192.png",
